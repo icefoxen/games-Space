@@ -1,0 +1,18 @@
+syntax: glob
+*.swp
+*.swo
+\#*\#
+*~
+*.o
+*.cmo
+*.cmi
+*.cmx
+*.cma
+*.cmxa
+*_darcs*
+*.exe
+*.dll
+a.out
+*.hi
+*.mdb
+*.pdb
